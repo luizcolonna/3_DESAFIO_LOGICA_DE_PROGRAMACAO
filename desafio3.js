@@ -49,4 +49,7 @@ heroi3.atacar()
 let heroi4 = new heroi("Naruto",16,"ninja")
 heroi4.atacar()
 
+let heroi5 = new heroi("Robin Hood",26,"arqueiro")
+heroi5.atacar()
+
 
